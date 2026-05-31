@@ -1,4 +1,4 @@
-# Face Detection and Eye Detection using OpenCV
+# Face Detection using OpenCV
 
 ## Overview
 
